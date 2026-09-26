@@ -1,0 +1,22 @@
+{
+ "size": 19,
+ "sgf": "D:\\Go\\games\\game_20260912_225846.sgf",
+ "moves": [
+  {
+   "color": "B",
+   "coord": "D4"
+  },
+  {
+   "color": "W",
+   "coord": "E4"
+  },
+  {
+   "color": "B",
+   "coord": "Q16"
+  },
+  {
+   "color": "W",
+   "coord": "Q15"
+  }
+ ]
+}

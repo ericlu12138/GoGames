@@ -1,0 +1,191 @@
+=== 自战终局 ===
+终局手数: 295
+final_score: = B+259.5
+--- 新增着法(自战部分) ---
+135 B O6
+136 W P7
+137 B T5
+138 W L7
+139 B Q1
+140 W S1
+141 B T4
+142 W T3
+143 B P5
+144 W N9
+145 B N10
+146 W N8
+147 B P9
+148 W O7
+149 B J4
+150 W N6
+151 B J5
+152 W P6
+153 B P3
+154 W L5
+155 B P4
+156 W Q5
+157 B F6
+158 W S3
+159 B L10
+160 W PASS
+161 B L1
+162 W S8
+163 B S9
+164 W T8
+165 B T9
+166 W T7
+167 B T6
+168 W B16
+169 B B17
+170 W C17
+171 B D17
+172 W C18
+173 B B15
+174 W R17
+175 B S16
+176 W S17
+177 B S18
+178 W T18
+179 B S19
+180 W PASS
+181 B A16
+182 W PASS
+183 B H2
+184 W PASS
+185 B K12
+186 W PASS
+187 B J1
+188 W PASS
+189 B C6
+190 W PASS
+191 B D1
+192 W PASS
+193 B H9
+194 W PASS
+195 B G7
+196 W PASS
+197 B F1
+198 W PASS
+199 B H1
+200 W PASS
+201 B T17
+202 W PASS
+203 B T16
+204 W PASS
+205 B Q19
+206 W PASS
+207 B K14
+208 W PASS
+209 B C5
+210 W PASS
+211 B C4
+212 W PASS
+213 B H14
+214 W PASS
+215 B B1
+216 W PASS
+217 B R18
+218 W PASS
+219 B P18
+220 W PASS
+221 B B3
+222 W PASS
+223 B A2
+224 W PASS
+225 B T19
+226 W PASS
+227 B D15
+228 W PASS
+229 B E14
+230 W PASS
+231 B G15
+232 W PASS
+233 B H12
+234 W PASS
+235 B F13
+236 W PASS
+237 B F14
+238 W PASS
+239 B G12
+240 W PASS
+241 B Q14
+242 W PASS
+243 B J10
+244 W PASS
+245 B K11
+246 W PASS
+247 B C13
+248 W PASS
+249 B B14
+250 W PASS
+251 B D14
+252 W PASS
+253 B C15
+254 W PASS
+255 B P13
+256 W PASS
+257 B D18
+258 W PASS
+259 B O14
+260 W PASS
+261 B N15
+262 W PASS
+263 B M16
+264 W PASS
+265 B B18
+266 W PASS
+267 B C19
+268 W PASS
+269 B S8
+270 W PASS
+271 B R17
+272 W PASS
+273 B C17
+274 W PASS
+275 B G13
+276 W PASS
+277 B Q18
+278 W PASS
+279 B C11
+280 W PASS
+281 B Q13
+282 W PASS
+283 B D13
+284 W PASS
+285 B Q15
+286 W PASS
+287 B Q12
+288 W PASS
+289 B M13
+290 W PASS
+291 B O13
+292 W PASS
+293 B M15
+294 W PASS
+295 B PASS
+--- showboard ---
+= MoveNum: 161 HASH: 7DC77E1DFD82692E5D1B0DB49CE5A458
+   A B C D E F G H J K L M N O P Q R S T
+19 . . X . . . . . . . . . . . . X . X X
+18 . X . X . . . . . . . . . X X X X X .
+17 . X X X . X . . . . . . X . X . X . X
+16 X . X . X . X . . . . X . X . X X X X
+15 . X X X . X X . . . . X1X . X X . . .
+14 . X . X X X . X . X . . . X . X . . .
+13 . . X X . X X . X . X X . X X X . . .
+12 . . X . . . X X X X . X . . . X . . .
+11 . . X . . . X . . X X . . . . X . . .
+10 . . X . . . . . X . X X X X X . X . .
+ 9 . . . . . . . X X X . X O O X X . X X
+ 8 . . . . . . X . X O X X O O O X X X .
+ 7 . . . X X . X X O O O O O O O O O X .
+ 6 . . X . X X . X O O . O O X O O O X X
+ 5 . . X . X . X X X O O . O X X O O X X
+ 4 . . X . X . . X X O O O O X X O O O X
+ 3 . X X X . . X X X O O X X X X O O O O
+ 2 X . X . X X . X . X X . X . X X X O .
+ 1 . X . X . X . X X . X . X . . X O O .
+Next player: White
+Rules: {"friendlyPassOk":false,"hasButton":false,"ko":"POSITIONAL","komi":7.5,"scoring":"AREA","suicide":true,"tax":"NONE","whiteHandicapBonus":"0"}
+B stones captured: 0
+W stones captured: 44

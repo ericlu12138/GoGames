@@ -1,0 +1,31 @@
+# 默认：自动检测文本，提交时统一成 LF，检出时按平台
+* text=auto
+
+# Windows 脚本必须保留 CRLF，否则 bat 可能执行异常
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# 明确文本类型
+*.py   text eol=lf
+*.js   text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.sgf  text eol=lf
+*.cfg  text eol=lf
+*.iss  text eol=crlf
+*.spec text eol=lf
+
+# 二进制：禁止任何行尾转换与 diff
+*.png  binary
+*.ico  binary
+*.exe  binary
+*.dll  binary
+*.bin.gz binary
+
+# GitHub 语言统计：不把棋谱/文档算进项目语言占比
+games/* linguist-documentation
+docs/*  linguist-documentation
+tools/* linguist-vendored=false

@@ -1,0 +1,3 @@
+我的着法 O7 非法: ? illegal move
+我的着法 RESIGN 非法: ? Could not parse vertex: 'RESIGN'
+等待 DSH 着法超时

@@ -1,0 +1,179 @@
+{
+ "curve": [
+  {
+   "move": 15,
+   "scoreLead_white": 0.850759,
+   "visits": "2"
+  },
+  {
+   "move": 30,
+   "scoreLead_white": 0.805912,
+   "visits": "1"
+  },
+  {
+   "move": 45,
+   "scoreLead_white": 1.15889,
+   "visits": "2"
+  },
+  {
+   "move": 60,
+   "scoreLead_white": 2.25725,
+   "visits": "2"
+  },
+  {
+   "move": 75,
+   "scoreLead_white": 6.27492,
+   "visits": "2"
+  },
+  {
+   "move": 90,
+   "scoreLead_white": 5.64325,
+   "visits": "2"
+  },
+  {
+   "move": 105,
+   "scoreLead_white": 6.15558,
+   "visits": "1"
+  },
+  {
+   "move": 120,
+   "scoreLead_white": 7.39198,
+   "visits": "1"
+  },
+  {
+   "move": 135,
+   "scoreLead_white": 3.82167,
+   "visits": "2"
+  },
+  {
+   "move": 150,
+   "scoreLead_white": 7.67717,
+   "visits": "2"
+  },
+  {
+   "move": 165,
+   "scoreLead_white": 11.514,
+   "visits": "1"
+  },
+  {
+   "move": 180,
+   "scoreLead_white": 15.0395,
+   "visits": "2"
+  },
+  {
+   "move": 195,
+   "scoreLead_white": 15.3828,
+   "visits": "1"
+  },
+  {
+   "move": 210,
+   "scoreLead_white": 14.8071,
+   "visits": "2"
+  },
+  {
+   "move": 225,
+   "scoreLead_white": 12.6335,
+   "visits": "2"
+  },
+  {
+   "move": 240,
+   "scoreLead_white": 10.0427,
+   "visits": "1"
+  },
+  {
+   "move": 255,
+   "scoreLead_white": 6.39081,
+   "visits": "1"
+  },
+  {
+   "move": 270,
+   "scoreLead_white": 14.1274,
+   "visits": "2"
+  },
+  {
+   "move": 285,
+   "scoreLead_white": 6.47032,
+   "visits": "1"
+  },
+  {
+   "move": 300,
+   "scoreLead_white": 12.6594,
+   "visits": "1"
+  },
+  {
+   "move": 315,
+   "scoreLead_white": 9.44658,
+   "visits": "1"
+  },
+  {
+   "move": 330,
+   "scoreLead_white": 8.58485,
+   "visits": "2"
+  },
+  {
+   "move": 345,
+   "scoreLead_white": 8.5436,
+   "visits": "1"
+  },
+  {
+   "move": 360,
+   "scoreLead_white": 8.63835,
+   "visits": "1"
+  },
+  {
+   "move": 369,
+   "scoreLead_white": 8.41241,
+   "visits": "2"
+  }
+ ],
+ "biggest_swings": [
+  {
+   "from": 255,
+   "to": 270,
+   "delta": 7.7,
+   "score": 14.1274
+  },
+  {
+   "from": 270,
+   "to": 285,
+   "delta": -7.7,
+   "score": 6.47032
+  },
+  {
+   "from": 285,
+   "to": 300,
+   "delta": 6.2,
+   "score": 12.6594
+  },
+  {
+   "from": 60,
+   "to": 75,
+   "delta": 4.0,
+   "score": 6.27492
+  },
+  {
+   "from": 135,
+   "to": 150,
+   "delta": 3.9,
+   "score": 7.67717
+  },
+  {
+   "from": 150,
+   "to": 165,
+   "delta": 3.8,
+   "score": 11.514
+  },
+  {
+   "from": 240,
+   "to": 255,
+   "delta": -3.7,
+   "score": 6.39081
+  },
+  {
+   "from": 120,
+   "to": 135,
+   "delta": -3.6,
+   "score": 3.82167
+  }
+ ]
+}

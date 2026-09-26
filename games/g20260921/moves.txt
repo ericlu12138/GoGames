@@ -1,0 +1,135 @@
+  1  B R16   katago
+  2  W D4    deepseek
+  3  B C16   katago
+  4  W Q4    deepseek
+  5  B O16   katago
+  6  W Q6    deepseek
+  7  B C3    katago
+  8  W D6    deepseek
+  9  B D3    katago
+ 10  W K3    deepseek
+ 11  B E4    katago
+ 12  W F5    deepseek
+ 13  B E5    katago
+ 14  W F4    deepseek
+ 15  B E6    katago
+ 16  W F3    deepseek
+ 17  B C10   katago
+ 18  W E3    deepseek
+ 19  B D7    katago
+ 20  W D5    deepseek
+ 21  B E7    katago
+ 22  W R6    deepseek
+ 23  B F17   katago
+ 24  W C14   deepseek
+ 25  B Q2    katago
+ 26  W R3    deepseek
+ 27  B M3    katago
+ 28  W L4    deepseek
+ 29  B O3    katago
+ 30  W R5    deepseek
+ 31  B E16   katago
+ 32  W E15   deepseek
+ 33  B C12   katago
+ 34  W N16   deepseek
+ 35  B F15   katago
+ 36  W F16   deepseek
+ 37  B G16   katago
+ 38  W G13   deepseek
+ 39  B N17   katago
+ 40  W Q17   deepseek
+ 41  B Q16   katago
+ 42  W P16   deepseek
+ 43  B P17   katago
+ 44  W O17   deepseek
+ 45  B O18   katago
+ 46  W Q18   deepseek
+ 47  B P15   katago
+ 48  W P14   deepseek
+ 49  B J13   katago
+ 50  W H13   deepseek
+ 51  B J12   katago
+ 52  W K5    deepseek
+ 53  B G11   katago
+ 54  W G14   deepseek
+ 55  B M12   katago
+ 56  W L12   deepseek
+ 57  B L13   katago
+ 58  W K13   deepseek
+ 59  B L11   katago
+ 60  W K6    deepseek
+ 61  B Q11   katago
+ 62  W Q10   deepseek
+ 63  B P10   katago
+ 64  W K7    deepseek
+ 65  B R2    katago
+ 66  W Q3    deepseek
+ 67  B R10   katago
+ 68  W R9    deepseek
+ 69  B Q9    katago
+ 70  W S2    deepseek
+ 71  B P2    katago
+ 72  W R1    deepseek
+ 73  B L2    katago
+ 74  W M2    deepseek
+ 75  B N2    katago
+ 76  W N4    deepseek
+ 77  B G8    katago
+ 78  W M4    deepseek
+ 79  B K2    katago
+ 80  W L3    deepseek
+ 81  B N3    katago
+ 82  W K4    deepseek
+ 83  B R8    katago
+ 84  W O9    deepseek
+ 85  B K9    katago
+ 86  W M7    deepseek
+ 87  B E2    katago
+ 88  W M6    deepseek
+ 89  B F2    katago
+ 90  W O8    deepseek
+ 91  B H3    katago
+ 92  W K8    deepseek
+ 93  B M10   katago
+ 94  W D2    deepseek
+ 95  B G3    katago
+ 96  W G2    deepseek
+ 97  B C2    katago
+ 98  W B2    deepseek
+ 99  B G5    katago
+100  W G4    deepseek
+101  B H4    katago
+102  W G1    deepseek
+103  B J9    katago
+104  W K10   deepseek
+105  B S7    katago
+106  W R7    deepseek
+107  B M9    katago
+108  W L9    deepseek
+109  B L8    katago
+110  W P8    deepseek
+111  B S6    katago
+112  W R4    deepseek
+113  B M8    katago
+114  W N7    deepseek
+115  B S5    katago
+116  W S4    deepseek
+117  B H6    katago
+118  W G6    deepseek
+119  B H5    katago
+120  W J6    deepseek
+121  B J8    katago
+122  W J7    deepseek
+123  B H7    katago
+124  W H8    deepseek
+125  B O4    katago
+126  W N5    deepseek
+127  B Q8    katago
+128  W Q7    deepseek
+129  B O5    katago
+130  W M1    deepseek
+131  B J3    katago
+132  W J2    deepseek
+133  B N1    katago
+134  W PASS  deepseek
+135  B O10   katago

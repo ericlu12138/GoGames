@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>围棋教学盘 · 自动刷新</title>
+<meta http-equiv="refresh" content="2">
+<style>
+  html,body{margin:0;background:#1b1b1b;color:#eee;font-family:"Microsoft YaHei",sans-serif;}
+  .wrap{display:flex;flex-direction:column;align-items:center;padding:14px;}
+  img{max-width:min(92vw,860px);box-shadow:0 6px 24px rgba(0,0,0,.6);border-radius:6px;background:#fff;}
+  .hint{margin-top:10px;font-size:13px;color:#9fd3a5;text-align:center;line-height:1.7}
+  .k{color:#ffd54f}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <img src="board.png" alt="棋盘">
+  <div class="hint">
+    这张图每 <span class="k">2 秒</span> 自动刷新 —— 我每走一步它就更新。<br>
+    <span class="k">绿圈+字母</span>= 候选/推荐点 &nbsp;|&nbsp; <span class="k">红点</span>= 最新一手 &nbsp;|&nbsp; <span class="k">红叉</span>= 不好的点 &nbsp;|&nbsp; <span class="k">蓝点</span>= 要点
+  </div>
+</div>
+</body>
+</html>

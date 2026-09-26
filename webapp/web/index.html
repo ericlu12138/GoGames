@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>GoDojo · 围棋陪练</title>
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header id="topbar">
+  <div class="brand"><span class="logo"></span>GoDojo</div>
+
+  <label class="field">棋盘
+    <select id="fSize"><option value="9">9 路</option><option value="13">13 路</option><option value="19">19 路</option></select>
+  </label>
+  <label class="field">你执
+    <select id="fColor"><option value="B">黑(先手)</option><option value="W">白(后手)</option></select>
+  </label>
+  <label class="field">对手
+    <select id="fOpp">
+      <option value="ai">内置 KataGo</option>
+      <option value="external">外接 AI(文件)</option>
+      <option value="both">AI 对 AI(双文件)</option>
+    </select>
+  </label>
+  <label class="field">让子
+    <select id="fHc"><option value="0">0(分先)</option><option value="2">2 子</option><option value="3">3 子</option><option value="4">4 子</option><option value="5">5 子</option></select>
+  </label>
+  <label class="field wide">强度
+    <input type="range" id="fVisits" min="20" max="2000" step="20" value="120">
+    <output id="fVisitsOut">120</output>
+  </label>
+
+  <div class="actions">
+    <button id="bNew" class="primary">新局</button>
+    <button id="bUndo">悔棋</button>
+    <button id="bHint">提示</button>
+    <button id="bPass">停一手</button>
+    <button id="bAnalyze">分析</button>
+    <button id="bResign">认输</button>
+    <button id="bSave">保存棋谱</button>
+    <button id="bSettings" class="ghost" title="设置">⚙</button>
+    <button id="bQuit" class="ghost" title="退出程序">⏻</button>
+  </div>
+</header>
+
+<main id="layout">
+  <section id="boardWrap">
+    <canvas id="board"></canvas>
+    <div id="busyOverlay" class="hidden"><div class="spinner"></div><span id="busyText">引擎思考中…</span></div>
+  </section>
+
+  <aside id="panel">
+    <div class="card">
+      <div id="status" class="status">正在启动…</div>
+      <div class="evalrow">
+        <div class="evalbar"><div class="evalfill" id="evalFill"></div><div class="evalmid"></div></div>
+        <div class="evaltext" id="evalText">胜率 --</div>
+      </div>
+      <div class="kv" id="kvRow"></div>
+      <div id="coach" class="coach"></div>
+    </div>
+
+    <div class="card">
+      <div class="cardhead">
+        <span>引擎候选点</span>
+        <label class="chk"><input type="checkbox" id="showNums" checked> 显示手数</label>
+      </div>
+      <table class="cands" id="cands"><tbody><tr><td class="dim">—</td></tr></tbody></table>
+      <div class="pv" id="pv"></div>
+    </div>
+
+    <div class="card grow">
+      <div class="cardhead"><span>对局记录</span><span class="dim" id="capInfo"></span></div>
+      <div class="movelist" id="moveList"></div>
+    </div>
+  </aside>
+</main>
+
+<div id="toast"></div>
+
+<div id="settings" class="modal hidden">
+  <div class="modalbox">
+    <h2>设置</h2>
+    <p class="hint">引擎路径可以填绝对路径,也可以填相对于程序目录的相对路径。</p>
+
+    <label class="row"><span>katago.exe</span><input id="sKatago" type="text"></label>
+    <label class="row"><span>权重 (.bin.gz)</span><input id="sModel" type="text"></label>
+    <label class="row"><span>配置 (.cfg)</span><input id="sCfg" type="text"></label>
+
+    <div id="detectNotes" class="notes"></div>
+
+    <div class="modalacts">
+      <button id="sDetect">自动探测</button>
+      <button id="sRestart">重启引擎</button>
+      <button id="sKill" class="danger">清理残留 katago</button>
+      <span class="spacer"></span>
+      <button id="sClose" class="ghost">关闭</button>
+      <button id="sSave" class="primary">保存并应用</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

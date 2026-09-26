@@ -1,0 +1,149 @@
+{
+ "curve": [
+  {
+   "move": 15,
+   "scoreLead_white": 0.819434,
+   "visits": "2"
+  },
+  {
+   "move": 30,
+   "scoreLead_white": 0.580115,
+   "visits": "1"
+  },
+  {
+   "move": 45,
+   "scoreLead_white": 0.938558,
+   "visits": "2"
+  },
+  {
+   "move": 60,
+   "scoreLead_white": 0.168308,
+   "visits": "2"
+  },
+  {
+   "move": 75,
+   "scoreLead_white": 2.63075,
+   "visits": "2"
+  },
+  {
+   "move": 90,
+   "scoreLead_white": 2.56663,
+   "visits": "2"
+  },
+  {
+   "move": 105,
+   "scoreLead_white": -2.10923,
+   "visits": "2"
+  },
+  {
+   "move": 120,
+   "scoreLead_white": -8.63033,
+   "visits": "1"
+  },
+  {
+   "move": 135,
+   "scoreLead_white": -2.22638,
+   "visits": "2"
+  },
+  {
+   "move": 150,
+   "scoreLead_white": 6.39092,
+   "visits": "2"
+  },
+  {
+   "move": 165,
+   "scoreLead_white": 6.05755,
+   "visits": "1"
+  },
+  {
+   "move": 180,
+   "scoreLead_white": 2.22889,
+   "visits": "2"
+  },
+  {
+   "move": 195,
+   "scoreLead_white": 2.49131,
+   "visits": "2"
+  },
+  {
+   "move": 210,
+   "scoreLead_white": 2.36924,
+   "visits": "3"
+  },
+  {
+   "move": 225,
+   "scoreLead_white": 0.743845,
+   "visits": "2"
+  },
+  {
+   "move": 240,
+   "scoreLead_white": 0.751289,
+   "visits": "1"
+  },
+  {
+   "move": 255,
+   "scoreLead_white": 0.346827,
+   "visits": "1"
+  },
+  {
+   "move": 270,
+   "scoreLead_white": 0.53204,
+   "visits": "2"
+  },
+  {
+   "move": 276,
+   "scoreLead_white": 0.509719,
+   "visits": "4"
+  }
+ ],
+ "biggest_swings": [
+  {
+   "from": 135,
+   "to": 150,
+   "delta": 8.6,
+   "score": 6.39092
+  },
+  {
+   "from": 105,
+   "to": 120,
+   "delta": -6.5,
+   "score": -8.63033
+  },
+  {
+   "from": 120,
+   "to": 135,
+   "delta": 6.4,
+   "score": -2.22638
+  },
+  {
+   "from": 90,
+   "to": 105,
+   "delta": -4.7,
+   "score": -2.10923
+  },
+  {
+   "from": 165,
+   "to": 180,
+   "delta": -3.8,
+   "score": 2.22889
+  },
+  {
+   "from": 60,
+   "to": 75,
+   "delta": 2.5,
+   "score": 2.63075
+  },
+  {
+   "from": 210,
+   "to": 225,
+   "delta": -1.6,
+   "score": 0.743845
+  },
+  {
+   "from": 45,
+   "to": 60,
+   "delta": -0.8,
+   "score": 0.168308
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "moves": 77,
+ "side_to_move": "w",
+ "my_color": "w",
+ "my_turn": true,
+ "game_over": true,
+ "note": "对局结束",
+ "board": "     A B C D E F G H J K L M N O P Q R S T\n 19  . . . . . . . . . . . . . . . . . . .\n 18  . . . . . . . . . . . . . X . . . . .\n 17  . . . . . . . . . . . . . . . . . . .\n 16  . . X X X . . X . . . . . X . . X . .\n 15  . . . O . . . . . . . . . . . . . . .\n 14  . . . . . . . . . . . . . . . . . . .\n 13  . . O . . . . . . X . . . . . . X . .\n 12  . . . . . . X . . . X . X . . . . . .\n 11  . X X X . . . . X . . . . . . . . . .\n 10  . O O X . . . . . O . . . X . . . . .\n  9  . O O X . O . . . . O . . . . . O . .\n  8  . . X O . . . O . O O . . X . . . . .\n  7  . . X . . O . . . O . O O X X X . . .\n  6  . . . . O . O . . O . O O X O O X . .\n  5  . X . O . O . . . O O . . X O O X . .\n  4  . X . O . . . . . X X X . . O O X . .\n  3  . . . . . O O . X O . . . . O X . . .\n  2  . . . . . . . X . . . . . . . X . . .\n  1  . . . . . . . . . . . . . . . . . . .",
+ "history": "BR16,WQ4,BC16,WD4,BO16,WK3,BE16,WF3,BR6,WQ6,BR5,WQ5,BR4,WC10,BQ3,WP3,BQ7,WD5,BQ2,WF5,BL4,WK5,BK4,WK6,BJ3,WD15,BD16,WC13,BD10,WL8,BC11,WC9,BD11,WB10,BB11,WL5,BD9,WK7,BC7,WK10,BM4,WF7,BB5,WH8,BO5,WE6,BO8,WF9,BR13,WB9,BB4,WD8,BC8,WM7,BH16,WN6,BP7,WK8,BN12,WL9,BK13,WM6,BG12,WG6,BL12,WP6,BO6,WR9,BO10,WN7,BO18,WP4,BO7,WP5,BH2,WG3,BJ11",
+ "updated": "19:46:53",
+ "final_score": "B+198.5"
+}

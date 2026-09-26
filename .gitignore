@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# 打包产物
+build/
+dist/
+*.spec.bak
+installer_out/
+dist_payload*/
+src_dist/
+
+# 运行时生成
+*.log
+!docs/**/*.log
+godojo_web.log
+warmup.result
+probe_new.txt
+
+# 引擎与权重（第三方大文件，不入库）
+KataGo-opencl/
+KataGo-cpu/
+*.bin.gz
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini

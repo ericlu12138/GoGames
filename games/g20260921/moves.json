@@ -1,0 +1,821 @@
+{
+ "size": 19,
+ "komi": 7.5,
+ "my_color": "w",
+ "engine_color": "b",
+ "max_time": 20.0,
+ "moves": [
+  {
+   "color": "b",
+   "coord": "R16",
+   "by": "katago",
+   "t": "16:41:53"
+  },
+  {
+   "color": "w",
+   "coord": "D4",
+   "by": "deepseek",
+   "t": "16:42:03"
+  },
+  {
+   "color": "b",
+   "coord": "C16",
+   "by": "katago",
+   "t": "16:42:24"
+  },
+  {
+   "color": "w",
+   "coord": "Q4",
+   "by": "deepseek",
+   "t": "16:42:32"
+  },
+  {
+   "color": "b",
+   "coord": "O16",
+   "by": "katago",
+   "t": "16:42:53"
+  },
+  {
+   "color": "w",
+   "coord": "Q6",
+   "by": "deepseek",
+   "t": "16:43:31"
+  },
+  {
+   "color": "b",
+   "coord": "C3",
+   "by": "katago",
+   "t": "16:43:52"
+  },
+  {
+   "color": "w",
+   "coord": "D6",
+   "by": "deepseek",
+   "t": "16:44:04"
+  },
+  {
+   "color": "b",
+   "coord": "D3",
+   "by": "katago",
+   "t": "16:44:25"
+  },
+  {
+   "color": "w",
+   "coord": "K3",
+   "by": "deepseek",
+   "t": "16:44:37"
+  },
+  {
+   "color": "b",
+   "coord": "E4",
+   "by": "katago",
+   "t": "16:44:58"
+  },
+  {
+   "color": "w",
+   "coord": "F5",
+   "by": "deepseek",
+   "t": "16:45:07"
+  },
+  {
+   "color": "b",
+   "coord": "E5",
+   "by": "katago",
+   "t": "16:45:28"
+  },
+  {
+   "color": "w",
+   "coord": "F4",
+   "by": "deepseek",
+   "t": "16:45:36"
+  },
+  {
+   "color": "b",
+   "coord": "E6",
+   "by": "katago",
+   "t": "16:45:58"
+  },
+  {
+   "color": "w",
+   "coord": "F3",
+   "by": "deepseek",
+   "t": "16:46:06"
+  },
+  {
+   "color": "b",
+   "coord": "C10",
+   "by": "katago",
+   "t": "16:46:27"
+  },
+  {
+   "color": "w",
+   "coord": "E3",
+   "by": "deepseek",
+   "t": "16:46:36"
+  },
+  {
+   "color": "b",
+   "coord": "D7",
+   "by": "katago",
+   "t": "16:46:57"
+  },
+  {
+   "color": "w",
+   "coord": "D5",
+   "by": "deepseek",
+   "t": "16:47:05"
+  },
+  {
+   "color": "b",
+   "coord": "E7",
+   "by": "katago",
+   "t": "16:47:27"
+  },
+  {
+   "color": "w",
+   "coord": "R6",
+   "by": "deepseek",
+   "t": "16:47:35"
+  },
+  {
+   "color": "b",
+   "coord": "F17",
+   "by": "katago",
+   "t": "16:47:56"
+  },
+  {
+   "color": "w",
+   "coord": "C14",
+   "by": "deepseek",
+   "t": "16:48:19"
+  },
+  {
+   "color": "b",
+   "coord": "Q2",
+   "by": "katago",
+   "t": "16:48:40"
+  },
+  {
+   "color": "w",
+   "coord": "R3",
+   "by": "deepseek",
+   "t": "16:48:48"
+  },
+  {
+   "color": "b",
+   "coord": "M3",
+   "by": "katago",
+   "t": "16:49:09"
+  },
+  {
+   "color": "w",
+   "coord": "L4",
+   "by": "deepseek",
+   "t": "16:49:17"
+  },
+  {
+   "color": "b",
+   "coord": "O3",
+   "by": "katago",
+   "t": "16:49:38"
+  },
+  {
+   "color": "w",
+   "coord": "R5",
+   "by": "deepseek",
+   "t": "16:49:48"
+  },
+  {
+   "color": "b",
+   "coord": "E16",
+   "by": "katago",
+   "t": "16:50:10"
+  },
+  {
+   "color": "w",
+   "coord": "E15",
+   "by": "deepseek",
+   "t": "16:50:17"
+  },
+  {
+   "color": "b",
+   "coord": "C12",
+   "by": "katago",
+   "t": "16:50:39"
+  },
+  {
+   "color": "w",
+   "coord": "N16",
+   "by": "deepseek",
+   "t": "16:50:47"
+  },
+  {
+   "color": "b",
+   "coord": "F15",
+   "by": "katago",
+   "t": "16:51:08"
+  },
+  {
+   "color": "w",
+   "coord": "F16",
+   "by": "deepseek",
+   "t": "16:51:17"
+  },
+  {
+   "color": "b",
+   "coord": "G16",
+   "by": "katago",
+   "t": "16:51:38"
+  },
+  {
+   "color": "w",
+   "coord": "G13",
+   "by": "deepseek",
+   "t": "16:51:45"
+  },
+  {
+   "color": "b",
+   "coord": "N17",
+   "by": "katago",
+   "t": "16:52:07"
+  },
+  {
+   "color": "w",
+   "coord": "Q17",
+   "by": "deepseek",
+   "t": "16:52:16"
+  },
+  {
+   "color": "b",
+   "coord": "Q16",
+   "by": "katago",
+   "t": "16:52:37"
+  },
+  {
+   "color": "w",
+   "coord": "P16",
+   "by": "deepseek",
+   "t": "16:52:51"
+  },
+  {
+   "color": "b",
+   "coord": "P17",
+   "by": "katago",
+   "t": "16:53:12"
+  },
+  {
+   "color": "w",
+   "coord": "O17",
+   "by": "deepseek",
+   "t": "16:53:23"
+  },
+  {
+   "color": "b",
+   "coord": "O18",
+   "by": "katago",
+   "t": "16:53:44"
+  },
+  {
+   "color": "w",
+   "coord": "Q18",
+   "by": "deepseek",
+   "t": "16:53:53"
+  },
+  {
+   "color": "b",
+   "coord": "P15",
+   "by": "katago",
+   "t": "16:54:14"
+  },
+  {
+   "color": "w",
+   "coord": "P14",
+   "by": "deepseek",
+   "t": "16:54:23"
+  },
+  {
+   "color": "b",
+   "coord": "J13",
+   "by": "katago",
+   "t": "16:54:44"
+  },
+  {
+   "color": "w",
+   "coord": "H13",
+   "by": "deepseek",
+   "t": "16:54:53"
+  },
+  {
+   "color": "b",
+   "coord": "J12",
+   "by": "katago",
+   "t": "16:55:14"
+  },
+  {
+   "color": "w",
+   "coord": "K5",
+   "by": "deepseek",
+   "t": "16:55:24"
+  },
+  {
+   "color": "b",
+   "coord": "G11",
+   "by": "katago",
+   "t": "16:55:45"
+  },
+  {
+   "color": "w",
+   "coord": "G14",
+   "by": "deepseek",
+   "t": "16:55:53"
+  },
+  {
+   "color": "b",
+   "coord": "M12",
+   "by": "katago",
+   "t": "16:56:14"
+  },
+  {
+   "color": "w",
+   "coord": "L12",
+   "by": "deepseek",
+   "t": "16:56:24"
+  },
+  {
+   "color": "b",
+   "coord": "L13",
+   "by": "katago",
+   "t": "16:56:45"
+  },
+  {
+   "color": "w",
+   "coord": "K13",
+   "by": "deepseek",
+   "t": "16:56:52"
+  },
+  {
+   "color": "b",
+   "coord": "L11",
+   "by": "katago",
+   "t": "16:57:14"
+  },
+  {
+   "color": "w",
+   "coord": "K6",
+   "by": "deepseek",
+   "t": "16:57:29"
+  },
+  {
+   "color": "b",
+   "coord": "Q11",
+   "by": "katago",
+   "t": "16:57:50"
+  },
+  {
+   "color": "w",
+   "coord": "Q10",
+   "by": "deepseek",
+   "t": "16:57:58"
+  },
+  {
+   "color": "b",
+   "coord": "P10",
+   "by": "katago",
+   "t": "16:58:19"
+  },
+  {
+   "color": "w",
+   "coord": "K7",
+   "by": "deepseek",
+   "t": "16:58:27"
+  },
+  {
+   "color": "b",
+   "coord": "R2",
+   "by": "katago",
+   "t": "16:58:48"
+  },
+  {
+   "color": "w",
+   "coord": "Q3",
+   "by": "deepseek",
+   "t": "16:58:56"
+  },
+  {
+   "color": "b",
+   "coord": "R10",
+   "by": "katago",
+   "t": "16:59:17"
+  },
+  {
+   "color": "w",
+   "coord": "R9",
+   "by": "deepseek",
+   "t": "16:59:25"
+  },
+  {
+   "color": "b",
+   "coord": "Q9",
+   "by": "katago",
+   "t": "16:59:46"
+  },
+  {
+   "color": "w",
+   "coord": "S2",
+   "by": "deepseek",
+   "t": "16:59:57"
+  },
+  {
+   "color": "b",
+   "coord": "P2",
+   "by": "katago",
+   "t": "17:00:19"
+  },
+  {
+   "color": "w",
+   "coord": "R1",
+   "by": "deepseek",
+   "t": "17:00:26"
+  },
+  {
+   "color": "b",
+   "coord": "L2",
+   "by": "katago",
+   "t": "17:00:47"
+  },
+  {
+   "color": "w",
+   "coord": "M2",
+   "by": "deepseek",
+   "t": "17:00:58"
+  },
+  {
+   "color": "b",
+   "coord": "N2",
+   "by": "katago",
+   "t": "17:01:19"
+  },
+  {
+   "color": "w",
+   "coord": "N4",
+   "by": "deepseek",
+   "t": "17:01:35"
+  },
+  {
+   "color": "b",
+   "coord": "G8",
+   "by": "katago",
+   "t": "17:01:56"
+  },
+  {
+   "color": "w",
+   "coord": "M4",
+   "by": "deepseek",
+   "t": "17:02:08"
+  },
+  {
+   "color": "b",
+   "coord": "K2",
+   "by": "katago",
+   "t": "17:02:30"
+  },
+  {
+   "color": "w",
+   "coord": "L3",
+   "by": "deepseek",
+   "t": "17:02:38"
+  },
+  {
+   "color": "b",
+   "coord": "N3",
+   "by": "katago",
+   "t": "17:02:59"
+  },
+  {
+   "color": "w",
+   "coord": "K4",
+   "by": "deepseek",
+   "t": "17:03:13"
+  },
+  {
+   "color": "b",
+   "coord": "R8",
+   "by": "katago",
+   "t": "17:03:34"
+  },
+  {
+   "color": "w",
+   "coord": "O9",
+   "by": "deepseek",
+   "t": "17:03:42"
+  },
+  {
+   "color": "b",
+   "coord": "K9",
+   "by": "katago",
+   "t": "17:04:02"
+  },
+  {
+   "color": "w",
+   "coord": "M7",
+   "by": "deepseek",
+   "t": "17:04:14"
+  },
+  {
+   "color": "b",
+   "coord": "E2",
+   "by": "katago",
+   "t": "17:04:35"
+  },
+  {
+   "color": "w",
+   "coord": "M6",
+   "by": "deepseek",
+   "t": "17:04:45"
+  },
+  {
+   "color": "b",
+   "coord": "F2",
+   "by": "katago",
+   "t": "17:05:05"
+  },
+  {
+   "color": "w",
+   "coord": "O8",
+   "by": "deepseek",
+   "t": "17:05:26"
+  },
+  {
+   "color": "b",
+   "coord": "H3",
+   "by": "katago",
+   "t": "17:05:46"
+  },
+  {
+   "color": "w",
+   "coord": "K8",
+   "by": "deepseek",
+   "t": "17:05:56"
+  },
+  {
+   "color": "b",
+   "coord": "M10",
+   "by": "katago",
+   "t": "17:06:17"
+  },
+  {
+   "color": "w",
+   "coord": "D2",
+   "by": "deepseek",
+   "t": "17:06:26"
+  },
+  {
+   "color": "b",
+   "coord": "G3",
+   "by": "katago",
+   "t": "17:06:47"
+  },
+  {
+   "color": "w",
+   "coord": "G2",
+   "by": "deepseek",
+   "t": "17:07:01"
+  },
+  {
+   "color": "b",
+   "coord": "C2",
+   "by": "katago",
+   "t": "17:07:22"
+  },
+  {
+   "color": "w",
+   "coord": "B2",
+   "by": "deepseek",
+   "t": "17:07:31"
+  },
+  {
+   "color": "b",
+   "coord": "G5",
+   "by": "katago",
+   "t": "17:07:52"
+  },
+  {
+   "color": "w",
+   "coord": "G4",
+   "by": "deepseek",
+   "t": "17:08:14"
+  },
+  {
+   "color": "b",
+   "coord": "H4",
+   "by": "katago",
+   "t": "17:08:35"
+  },
+  {
+   "color": "w",
+   "coord": "G1",
+   "by": "deepseek",
+   "t": "17:08:47"
+  },
+  {
+   "color": "b",
+   "coord": "J9",
+   "by": "katago",
+   "t": "17:09:08"
+  },
+  {
+   "color": "w",
+   "coord": "K10",
+   "by": "deepseek",
+   "t": "17:09:16"
+  },
+  {
+   "color": "b",
+   "coord": "S7",
+   "by": "katago",
+   "t": "17:09:37"
+  },
+  {
+   "color": "w",
+   "coord": "R7",
+   "by": "deepseek",
+   "t": "17:09:44"
+  },
+  {
+   "color": "b",
+   "coord": "M9",
+   "by": "katago",
+   "t": "17:10:05"
+  },
+  {
+   "color": "w",
+   "coord": "L9",
+   "by": "deepseek",
+   "t": "17:10:13"
+  },
+  {
+   "color": "b",
+   "coord": "L8",
+   "by": "katago",
+   "t": "17:10:35"
+  },
+  {
+   "color": "w",
+   "coord": "P8",
+   "by": "deepseek",
+   "t": "17:10:43"
+  },
+  {
+   "color": "b",
+   "coord": "S6",
+   "by": "katago",
+   "t": "17:11:04"
+  },
+  {
+   "color": "w",
+   "coord": "R4",
+   "by": "deepseek",
+   "t": "17:11:18"
+  },
+  {
+   "color": "b",
+   "coord": "M8",
+   "by": "katago",
+   "t": "17:11:39"
+  },
+  {
+   "color": "w",
+   "coord": "N7",
+   "by": "deepseek",
+   "t": "17:11:46"
+  },
+  {
+   "color": "b",
+   "coord": "S5",
+   "by": "katago",
+   "t": "17:12:07"
+  },
+  {
+   "color": "w",
+   "coord": "S4",
+   "by": "deepseek",
+   "t": "17:12:15"
+  },
+  {
+   "color": "b",
+   "coord": "H6",
+   "by": "katago",
+   "t": "17:12:36"
+  },
+  {
+   "color": "w",
+   "coord": "G6",
+   "by": "deepseek",
+   "t": "17:12:45"
+  },
+  {
+   "color": "b",
+   "coord": "H5",
+   "by": "katago",
+   "t": "17:13:06"
+  },
+  {
+   "color": "w",
+   "coord": "J6",
+   "by": "deepseek",
+   "t": "17:13:14"
+  },
+  {
+   "color": "b",
+   "coord": "J8",
+   "by": "katago",
+   "t": "17:13:35"
+  },
+  {
+   "color": "w",
+   "coord": "J7",
+   "by": "deepseek",
+   "t": "17:13:58"
+  },
+  {
+   "color": "b",
+   "coord": "H7",
+   "by": "katago",
+   "t": "17:14:19"
+  },
+  {
+   "color": "w",
+   "coord": "H8",
+   "by": "deepseek",
+   "t": "17:14:40"
+  },
+  {
+   "color": "b",
+   "coord": "O4",
+   "by": "katago",
+   "t": "17:15:02"
+  },
+  {
+   "color": "w",
+   "coord": "N5",
+   "by": "deepseek",
+   "t": "17:15:10"
+  },
+  {
+   "color": "b",
+   "coord": "Q8",
+   "by": "katago",
+   "t": "17:15:32"
+  },
+  {
+   "color": "w",
+   "coord": "Q7",
+   "by": "deepseek",
+   "t": "17:15:41"
+  },
+  {
+   "color": "b",
+   "coord": "O5",
+   "by": "katago",
+   "t": "17:16:02"
+  },
+  {
+   "color": "w",
+   "coord": "M1",
+   "by": "deepseek",
+   "t": "17:16:41"
+  },
+  {
+   "color": "b",
+   "coord": "J3",
+   "by": "katago",
+   "t": "17:17:03"
+  },
+  {
+   "color": "w",
+   "coord": "J2",
+   "by": "deepseek",
+   "t": "17:17:17"
+  },
+  {
+   "color": "b",
+   "coord": "N1",
+   "by": "katago",
+   "t": "17:17:39"
+  },
+  {
+   "color": "w",
+   "coord": "PASS",
+   "by": "deepseek",
+   "t": "17:17:58"
+  },
+  {
+   "color": "b",
+   "coord": "O10",
+   "by": "katago",
+   "t": "17:18:09"
+  }
+ ],
+ "started": "2026-09-21 16:41:29",
+ "updated": "2026-09-21 17:19:38"
+}
